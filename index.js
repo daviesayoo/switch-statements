@@ -86,4 +86,4 @@ document.getElementById('calculate').addEventListener('click', function () {
             break;
 
     }
-})
+});
